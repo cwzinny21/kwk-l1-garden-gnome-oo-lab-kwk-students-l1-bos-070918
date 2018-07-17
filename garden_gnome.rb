@@ -19,7 +19,7 @@ class GardenGnome
     @name 
   end 
   
-  def age 
+  def age=(age)
     @age = age 
   end  
   
