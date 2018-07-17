@@ -52,7 +52,7 @@ class GardenGnome
     puts "GNARLY!!!"
   end 
   
-  def introduce_self(name,age)
+  def introduce_self
     puts "Hello humans, my name is, I am years old, and you'll rue the day you crossed me!"
   end 
   
