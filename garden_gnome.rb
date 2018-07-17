@@ -2,7 +2,6 @@
 
 class GardenGnome
   
-  # test_gnome = GardenGnome.new 
   
   def initialize(hat_color="red") 
     @hat_color = hat_color
